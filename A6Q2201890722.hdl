@@ -1,4 +1,4 @@
-CHIP A6Q2_201890722 {
+CHIP A6Q2201890722 {
     IN a, b, c, d;
     OUT f;
 
